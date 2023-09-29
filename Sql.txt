@@ -1,0 +1,7 @@
+create database loginsecuritydemo;
+use loginsecuritydemo;
+
+select * from user;
+
+insert into user values(101,'delhi','rohan');
+insert into user values(102,'mumbai','amr');
